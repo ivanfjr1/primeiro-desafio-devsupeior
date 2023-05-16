@@ -7,7 +7,6 @@ public class Order {
 	private Double discount;
 	
 	public Order() {
-		super();
 	}
 
 	public Order(Integer code, Double basic, Double discount) {
